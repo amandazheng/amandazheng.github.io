@@ -1,0 +1,10 @@
+#pictures {
+    visibility: hidden;
+}
+#current {
+    visibility: visible;
+    text-align:center;
+}
+#current img{
+    margin:0.5em auto;
+}
