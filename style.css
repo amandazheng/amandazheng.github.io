@@ -4,7 +4,9 @@
 #current {
     visibility: visible;
     text-align:center;
+    background-color:#ffffff ;
+    
 }
 #current img{
-    margin:0.5em auto;
+    margin:0.25em auto;
 }
